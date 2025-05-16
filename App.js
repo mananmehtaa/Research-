@@ -11,9 +11,9 @@ function App() {
         .catch(err => console.error("Fetch error:", err));
     };
 
-    fetchData(); // Initial fetch
-    const interval = setInterval(fetchData, 1000); // Refresh every second
-    return () => clearInterval(interval); // Cleanup
+    fetchData();
+    const interval = setInterval(fetchData, 1000);
+    return () => clearInterval(interval);
   }, []);
 
   return (
