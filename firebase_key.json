@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-lidar",
+  "private_key_id": "ba8ea53d426c7f87fefc277563405272e690b540",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDe5XABjPRDCm6z\n0QATA2EzI0DlmH/rPz2d136MOWyUZEiKV18+CqRxQAM742nkqxtSoJCLvfJvPQtJ\nvAyZgoFq3HQdYGm6oaU1MuLg/Ltt78wqGsjuJgsWsNDSMWsgCBZ1oStrMkUV/Asq\n+tsVHsixXPRUXU2VGUs25uPY4B69SQO1WQMPeDYP9dnCSgs6uHSrsgATj3mTDDxc\nSg08+5ZmSnyEDhnyBVhGamoFIqTXAOXaHlkrMhxinlLtx25LAi0DQ2l9a35DbOJM\n7hCWE1KB6KP8CydLO2uLK2hT43MT90YHp2mdVOD3r3Ctbtl5pa0SMJJCGjxu2z6V\nY81Xinf3AgMBAAECggEAJVa1CSV2I6bjPY8k3oqB5WGh9PQzdZKN/VuEkPPrqv4T\nos0ZINkCjBAnmogxjINXW+OW4znqG1VUB0GPsMWKbX7JmsQ0YfXDKaLBG+Rqd3Ok\ntWbwQuivkdkD2jo6Ek8YiBL8JYRxy0mCC2yjd6nE/+Us7tcEcJYgoe1SvNlqfNWm\nyfx2OcjK0VsD4c4JC24eFUo2KAmeruOnEGnkmZoPnnt48ka3dVzGxWCSg/MY2NPc\nc7JmtVroVcfXbVL4mOKSWmkX5y8oU/39dvm4IDdhtLfIpktgEo8u+N/5s/sOMPgh\nzAVNlmozVpbbchQjmFxwx4ZIc8eOKnBdC8A4g+uYCQKBgQD3wvnDHnQHUtejnDNM\nMybolPvE3TeTzPeWPUWgSg95qu8q1CNQCErmBep+YMvdb9vTV81b97RSDEiOCP0y\n8Hcm8R3P+5SpVjIzoin0EQFMyefXIt6qJirnZxID+FzejtRSNEL4LKGBUWQwgOYo\nGEDXk8tzBgwIn9RGgzo8uwcvWQKBgQDmTszLUiX36fmDvqChf2u8fO6ypJACBg7p\n5+rJavMUSiTrTWe5BF0ufz3B3d/QTPQY65Qf6oaTsrTVP2VG70BpR24xoRuM7Yxb\nDGVAC/dz9CcmdXDZfJ5oRjcQEBi8OwX/HrJM6DNExLs/Z+x3xcdB2s3SXUWwhts8\nZBLG1bXHzwKBgH02o4VRwa/l1SdRjLdI7rQCf08ZwbnHj6T1KFf+td12XtLVTVdo\nKXogqUbfYohxvLYNnLKK+C2zGYP21QfGcWFT4A45hgMildJ0dSFs6qxFKg8XB1MU\nYQB7naY2AbFUm8dDtEi6PZEecjT1H9xJjZOllN93weMl62ELdwY0O0hZAoGBANSO\nycilitFiqp0DJTGoboDKNWu/IgIcIUuUdkdrY+nH/IcHK8HA21d8rDzvUA/p1ifh\n1RYX2BkdCHUAS7LKQgJooLVBYjIRVEb8C76uzLXCExgVsA+qSnEmzM8QbCPdvc0W\nQa1laVwAzmjYu5BXg22uSePrndQsws7b9dB5kYpVAoGAfHh4JdCCpW87Q85uRr13\n+zeNrVBYZYMrnJBtmo+bJPIobwl2k5gld9eLDUG3hSPZlXg1IzNPSg8knErlR6CN\nnJZQCikezM+skZdIRVsurOnkxjQc6jrmBAesrYqSokPlJ7Z8gLa3eDQuuYT22oNx\nKUKbYhPaBNUvW5ykeKCg/rc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@smart-lidar.iam.gserviceaccount.com",
+  "client_id": "111978900393328358157",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40smart-lidar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
